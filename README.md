@@ -1,4 +1,4 @@
-# AI-Addendeum
+# AI-Addendum
 
 ## How was this agreement created?
 
